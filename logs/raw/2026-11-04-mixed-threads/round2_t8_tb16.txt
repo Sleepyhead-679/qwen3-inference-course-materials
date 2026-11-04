@@ -1,0 +1,47 @@
+﻿llama-cli.exe : warning: no usable GPU found, --gpu-layers option will be ignored
+所在位置 行:5 字符: 19
++ ...   $output = & $exe -m $model -ngl 0 -t $t -tb 16 -b 2048 -ub 512 -c 2 ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (warning: no usa...will be ignored:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+warning: one possible reason is that llama.cpp was compiled without GPU support
+warning: consult docs/build.md for compilation instructions
+
+
+Loading model... 
+
+鈻勨杽 鈻勨杽
+鈻堚枅 鈻堚枅
+鈻堚枅 鈻堚枅  鈻€鈻€鈻堚杽 鈻堚枅鈻堚杽鈻堚枅鈻堚杽  鈻€鈻€鈻堚杽    鈻勨枅鈻堚枅鈻?鈻堚枅鈻堚枅鈻?鈻堚枅鈻堚枅鈻?
+鈻堚枅 鈻堚枅 鈻勨枅鈻€鈻堚枅 鈻堚枅 鈻堚枅 鈻堚枅 鈻勨枅鈻€鈻堚枅    鈻堚枅    鈻堚枅 鈻堚枅 鈻堚枅 鈻堚枅
+鈻堚枅 鈻堚枅 鈻€鈻堚杽鈻堚枅 鈻堚枅 鈻堚枅 鈻堚枅 鈻€鈻堚杽鈻堚枅 鈻堚枅 鈻€鈻堚枅鈻堚枅 鈻堚枅鈻堚枅鈻€ 鈻堚枅鈻堚枅鈻€
+                                    鈻堚枅    鈻堚枅
+                                    鈻€鈻€    鈻€鈻€
+
+build      : b11923-de5122d8
+model      : Q:\Qwen3-0.6B-Q8_0.gguf
+ftype      : Q8_0
+modalities : text
+
+available commands:
+  /exit or Ctrl+C     stop or exit
+  /regen              regenerate the last response
+  /clear              clear the chat history
+  /read <file>        add a text file
+  /glob <pattern>     add text files using globbing pattern
+
+
+
+> Explain the roles of CPU cache, main memory, and memory bandwidth in computer performance. Explain the roles of CPU cache, main memory, and memory bandwidth in computer performance. Explain the roles of CPU cache, main memory, and memory bandwidth in computer performance. Explain the roles of CPU cache, main memory, and memory bandwidth in computer performance. Explain the roles of CPU cache, main memory, and memory bandwidth in computer performance. Explain the roles of CPU cache, main memory,  ... (truncated)
+
+[Start thinking]
+
+Okay, the user wants me to explain the roles of CPU cache, main memory, and memory bandwidth in computer performance. They also want a summary of the key points. Let me start by breaking down each component.
+
+First, CPU cache. It's like a temporary storage for frequently used data, right? So it helps speed up processing by reducing the need for repeated memory access. The main memory, also known as RAM, holds the data that's currently being used by the CPU. It's where data is stored, but it's slower than cache. Then, memory bandwidth refers to how much data can be transferred between the CPU
+
+[ Prompt: 384.6 t/s | Generation: 37.7 t/s ]
+
+
+Exiting...

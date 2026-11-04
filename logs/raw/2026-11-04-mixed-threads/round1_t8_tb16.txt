@@ -1,0 +1,49 @@
+﻿llama-cli.exe : warning: no usable GPU found, --gpu-layers option will be ignored
+所在位置 行:5 字符: 19
++ ...   $output = & $exe -m $model -ngl 0 -t $t -tb 16 -b 2048 -ub 512 -c 2 ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (warning: no usa...will be ignored:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+warning: one possible reason is that llama.cpp was compiled without GPU support
+warning: consult docs/build.md for compilation instructions
+
+
+Loading model... 
+
+鈻勨杽 鈻勨杽
+鈻堚枅 鈻堚枅
+鈻堚枅 鈻堚枅  鈻€鈻€鈻堚杽 鈻堚枅鈻堚杽鈻堚枅鈻堚杽  鈻€鈻€鈻堚杽    鈻勨枅鈻堚枅鈻?鈻堚枅鈻堚枅鈻?鈻堚枅鈻堚枅鈻?
+鈻堚枅 鈻堚枅 鈻勨枅鈻€鈻堚枅 鈻堚枅 鈻堚枅 鈻堚枅 鈻勨枅鈻€鈻堚枅    鈻堚枅    鈻堚枅 鈻堚枅 鈻堚枅 鈻堚枅
+鈻堚枅 鈻堚枅 鈻€鈻堚杽鈻堚枅 鈻堚枅 鈻堚枅 鈻堚枅 鈻€鈻堚杽鈻堚枅 鈻堚枅 鈻€鈻堚枅鈻堚枅 鈻堚枅鈻堚枅鈻€ 鈻堚枅鈻堚枅鈻€
+                                    鈻堚枅    鈻堚枅
+                                    鈻€鈻€    鈻€鈻€
+
+build      : b11923-de5122d8
+model      : Q:\Qwen3-0.6B-Q8_0.gguf
+ftype      : Q8_0
+modalities : text
+
+available commands:
+  /exit or Ctrl+C     stop or exit
+  /regen              regenerate the last response
+  /clear              clear the chat history
+  /read <file>        add a text file
+  /glob <pattern>     add text files using globbing pattern
+
+
+
+> Explain the roles of CPU cache, main memory, and memory bandwidth in computer performance. Explain the roles of CPU cache, main memory, and memory bandwidth in computer performance. Explain the roles of CPU cache, main memory, and memory bandwidth in computer performance. Explain the roles of CPU cache, main memory, and memory bandwidth in computer performance. Explain the roles of CPU cache, main memory, and memory bandwidth in computer performance. Explain the roles of CPU cache, main memory,  ... (truncated)
+
+[Start thinking]
+
+Okay, so I need to explain the roles of CPU cache, main memory, and memory bandwidth in computer performance. Let me start by recalling what each component does.
+
+First, CPU cache. I know that CPU cache is a type of memory that stores frequently used data from the CPU to speed up processing. So, when the CPU needs data, it doesn't have to go back to the main memory each time, which saves time. That makes sense. Also, cache helps in reducing the need for slower main memory by storing data that's used again.
+
+Next, main memory. Main memory is where the data stored in RAM is
+
+[ Prompt: 359.2 t/s | Generation: 39.5 t/s ]
+
+
+Exiting...

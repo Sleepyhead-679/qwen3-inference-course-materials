@@ -1,0 +1,47 @@
+﻿llama-cli.exe : warning: no usable GPU found, --gpu-layers option will be ignored
+所在位置 行:5 字符: 19
++ ...   $output = & $exe -m $model -ngl 0 -t $t -tb 16 -b 2048 -ub 512 -c 2 ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (warning: no usa...will be ignored:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+warning: one possible reason is that llama.cpp was compiled without GPU support
+warning: consult docs/build.md for compilation instructions
+
+
+Loading model... 
+
+鈻勨杽 鈻勨杽
+鈻堚枅 鈻堚枅
+鈻堚枅 鈻堚枅  鈻€鈻€鈻堚杽 鈻堚枅鈻堚杽鈻堚枅鈻堚杽  鈻€鈻€鈻堚杽    鈻勨枅鈻堚枅鈻?鈻堚枅鈻堚枅鈻?鈻堚枅鈻堚枅鈻?
+鈻堚枅 鈻堚枅 鈻勨枅鈻€鈻堚枅 鈻堚枅 鈻堚枅 鈻堚枅 鈻勨枅鈻€鈻堚枅    鈻堚枅    鈻堚枅 鈻堚枅 鈻堚枅 鈻堚枅
+鈻堚枅 鈻堚枅 鈻€鈻堚杽鈻堚枅 鈻堚枅 鈻堚枅 鈻堚枅 鈻€鈻堚杽鈻堚枅 鈻堚枅 鈻€鈻堚枅鈻堚枅 鈻堚枅鈻堚枅鈻€ 鈻堚枅鈻堚枅鈻€
+                                    鈻堚枅    鈻堚枅
+                                    鈻€鈻€    鈻€鈻€
+
+build      : b11923-de5122d8
+model      : Q:\Qwen3-0.6B-Q8_0.gguf
+ftype      : Q8_0
+modalities : text
+
+available commands:
+  /exit or Ctrl+C     stop or exit
+  /regen              regenerate the last response
+  /clear              clear the chat history
+  /read <file>        add a text file
+  /glob <pattern>     add text files using globbing pattern
+
+
+
+> Explain the roles of CPU cache, main memory, and memory bandwidth in computer performance. Explain the roles of CPU cache, main memory, and memory bandwidth in computer performance. Explain the roles of CPU cache, main memory, and memory bandwidth in computer performance. Explain the roles of CPU cache, main memory, and memory bandwidth in computer performance. Explain the roles of CPU cache, main memory, and memory bandwidth in computer performance. Explain the roles of CPU cache, main memory,  ... (truncated)
+
+[Start thinking]
+
+Okay, so I need to explain the roles of CPU cache, main memory, and memory bandwidth in computer performance. Let me start by recalling what each of these terms means.
+
+First, CPU cache. From what I remember, it's a type of memory used by the central processing unit (CPU) to store data temporarily. It's designed to reduce the time needed to access main memory by storing frequently used data. For example, when the CPU is doing calculations, it can refer to the cache instead of main memory. This helps in improving performance by avoiding unnecessary data retrieval. So the key points here would be that it's a
+
+[ Prompt: 382.1 t/s | Generation: 41.7 t/s ]
+
+
+Exiting...

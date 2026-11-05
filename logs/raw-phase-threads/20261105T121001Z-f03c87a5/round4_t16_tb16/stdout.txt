@@ -1,0 +1,38 @@
+
+
+Loading model... 
+
+▄▄ ▄▄
+██ ██
+██ ██  ▀▀█▄ ███▄███▄  ▀▀█▄    ▄████ ████▄ ████▄
+██ ██ ▄█▀██ ██ ██ ██ ▄█▀██    ██    ██ ██ ██ ██
+██ ██ ▀█▄██ ██ ██ ██ ▀█▄██ ██ ▀████ ████▀ ████▀
+                                    ██    ██
+                                    ▀▀    ▀▀
+
+build      : b11923-de5122d8
+model      : Q:\Qwen3-0.6B-Q8_0.gguf
+ftype      : Q8_0
+modalities : text
+
+available commands:
+  /exit or Ctrl+C     stop or exit
+  /regen              regenerate the last response
+  /clear              clear the chat history
+  /read <file>        add a text file
+  /glob <pattern>     add text files using globbing pattern
+
+
+
+> Explain how CPU cache, main memory, and memory bandwidth affect program performance. Give a concrete example for each. Explain how CPU cache, main memory, and memory bandwidth affect program performance. Give a concrete example for each. Explain how CPU cache, main memory, and memory bandwidth affect program performance. Give a concrete example for each. Explain how CPU cache, main memory, and memory bandwidth affect program performance. Give a concrete example for each. Explain how CPU cache, m ... (truncated)
+
+[Start thinking]
+
+Okay, let's tackle this question. The user wants me to explain how CPU cache, main memory, and memory bandwidth affect program performance, with concrete examples for each. Hmm, I need to make sure I cover each component and provide a clear example.
+
+Starting with CPU cache. I remember that CPU cache is like a temporary storage area that holds frequently used data. When a program needs data, it's accessed from the cache first. If the data isn't in the cache, it goes to main memory. So, if a program runs a loop that's accessing a lot of data, the cache can hold that data, reducing
+
+[ Prompt: 483.7 t/s | Generation: 41.1 t/s ]
+
+
+Exiting...
